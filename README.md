@@ -19,3 +19,11 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 # Note:
 
 The .ipynb file is a little large, please be patient and reload it.
+
+# Preview:
+
+![alt text](https://github.com/quabouquet/SanFranciscoCrime/blob/master/map.png)
+
+![alt text](https://github.com/quabouquet/SanFranciscoCrime/blob/master/foo1.png)
+
+![alt text](https://github.com/quabouquet/SanFranciscoCrime/blob/master/foo2.png)
